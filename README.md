@@ -16,3 +16,7 @@ I'm an engineering student at **IIIT Delhi** with a passion for **web developmen
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/tushar-kumar-6aa37324b/)
+
+## Let's Connect!
+
+Explore my repositories and feel free to reach out for any collaboration or questions. 🚀
