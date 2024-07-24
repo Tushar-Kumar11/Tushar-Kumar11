@@ -1,40 +1,18 @@
-# Hello, I'm Jane Doe 👋
+# Hi there! I'm Tushar Kumar 👋
 
-Welcome to my GitHub profile! I'm a software engineer with a passion for developing innovative solutions.
+## 🚀 About Me
 
-## About Me
+I'm an engineering student at **IIIT Delhi** with a passion for **web development**. I enjoy exploring new technologies and working on exciting projects.
 
-- 🔭 I’m currently working on a machine learning project.
-- 🌱 I’m learning more about cloud technologies.
-- 👯 I’m looking to collaborate on open-source projects.
-- 📫 How to reach me: janedoe@example.com
+## 💼 Skills & Technologies
 
-## Skills & Technologies
+- **Programming Languages:** C++, Java, Python, HTML, CSS, C, SQL
+- **Tools & Technologies:** Git, MySQL, VS Code, Figma, TinkerCAD, MATLAB, Circuitverse, RPG Maker, GitHub, Google Colab, LabVIEW
 
-- **Languages**: Python, JavaScript, C++
-- **Frameworks**: React, Django
-- **Tools**: Git, Docker
+## 🌟 Current Projects
 
-## Notable Projects
+- **Web Development:** Currently focused on creating innovative web solutions and improving my skills in front-end and back-end development.
 
-### [Project A](https://github.com/janedoe/project-a)
-- **Description**: An application that solves X problem.
-- **Tech Stack**: React, Node.js
+## 🔗 Connect with Me
 
-### [Project B](https://github.com/janedoe/project-b)
-- **Description**: A tool for Y task.
-- **Tech Stack**: Python, Flask
-
-## GitHub Stats
-
-![Jane Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&hide_title=true)
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/janedoe/)
-- [Twitter](https://twitter.com/janedoe)
-
-## Let's Connect!
-
-Explore my repositories and feel free to reach out for any collaboration or questions. 🚀
-
+- [LinkedIn](https://www.linkedin.com/in/tushar-kumar-6aa37324b/)
